@@ -1,0 +1,7 @@
+Scrapy~=2.12.0
+itemadapter~=0.9.0
+pymongo~=4.10.1
+pandas~=2.2.2
+scipy~=1.14.0
+numpy~=2.1.0
+pyecharts~=2.0.8
