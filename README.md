@@ -61,6 +61,8 @@ graph TD
 
 ### 总榜单
 
+---
+
 👑 总累计人气TOP3
 1. 《一剑独尊》- 10058.2万
 2. 《我有一剑》- 7377.8万
@@ -85,6 +87,8 @@ graph TD
 
 ### 用户需求分析
 
+---
+
 ![七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.png)
 [七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.html)
 
@@ -97,6 +101,8 @@ graph TD
 | 现实题材 | 📉 数据持续低位 | 严肃文学需求薄弱 |
 
 ### 字数区间
+
+---
 
 ![七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.png)
 [七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.html)
@@ -118,6 +124,8 @@ graph LR
 
 ### 字数与评分的相关性
 
+---
+
 ![七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.png)
 [七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.html)
 
@@ -125,6 +133,8 @@ graph LR
 - 两者并没有强相关性
 
 ### 高频标签组合
+
+---
 
 **标签组合TOP3:**  
 🏆 东方玄幻 · 🥈 都市高武 · 🥉 都市高手
@@ -137,7 +147,9 @@ graph LR
 ![七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.png)
 [七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.html)
 
-### 🔍 特殊发现:
+### 🔍 特殊发现
+
+---
 
 ![七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.png)
 [七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.html)
@@ -146,10 +158,10 @@ graph LR
 
 ### 其他图片
 
+---
+
 ![七猫各类型平均字数对比](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型平均字数对比.png)
 [七猫各类型平均字数对比](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型平均字数对比.html)
 
 ![七猫男生原创小说类型分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说类型分布.png)
 [七猫男生原创小说类型分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说类型分布.html)
-
----
