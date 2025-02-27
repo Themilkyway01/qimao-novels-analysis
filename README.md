@@ -46,13 +46,13 @@ graph TD
 **爬虫引擎**  
 [![Scrapy](https://img.shields.io/badge/Scrapy-2.12+-green)](https://scrapy.org)  
 **数据存储**  
-[![MongoDB](https://img.shields.io/badge/MongoDB-4.10+-blue)](https://mongodb.org)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-4.10+-blue)](https://mongodb.p2hp.com/)  
 **分析引擎**  
-[![Pandas](https://img.shields.io/badge/Pandas-2.2+-red)](https://pandas.org)
-[![NumPy](https://img.shields.io/badge/NumPy-2.1+-orange)](https://numpy.org)
-[![Scipy](https://img.shields.io/badge/Scipy-1.14+-yellow)](https://scipy.org)  
+[![Pandas](https://img.shields.io/badge/Pandas-2.2+-red)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-2.1+-orange)](https://numpy.org/)
+[![Scipy](https://img.shields.io/badge/Scipy-1.14+-yellow)](https://docs.scipy.org/)  
 **可视化**  
-[![Pyecharts](https://img.shields.io/badge/Pyecharts-2.0+-purple)](https://pyecharts.org)  
+[![Pyecharts](https://img.shields.io/badge/Pyecharts-2.0+-purple)](https://pyecharts.org/)  
 
 ### ⏳ 效能突破日志
 | 阶段   | 关键技术       | 耗时  | 突破点       |
