@@ -67,7 +67,7 @@ graph TD
 
 **总榜单**
 
-`![七猫人气and阅读Top20.png](images/七猫人气and阅读Top20.png)`
+![七猫人气and阅读Top20.png](images/七猫人气and阅读Top20.png)
 
 👑 总累计人气TOP3
 1. 《一剑独尊》- 10058.2万
