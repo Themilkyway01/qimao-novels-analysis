@@ -83,15 +83,15 @@ graph TD
 - 不难发现人气榜全为老书，而阅读榜中有60%为新书。
 - 老书依旧韵味十足，新书也迸发着强劲活力，这正是一个新老逐渐交替的时候。
 - 
-![最多产作者排行榜.png](images%2F%D7%EE%B6%E0%B2%FA%D7%F7%D5%DF%C5%C5%D0%D0%B0%F1.png)
+![最多产作者排行榜.png](images/最多产作者排行榜.png)
 
 - 又从作者产出来看，产出最多的都是老作者，说明急需新作者的进入和沉淀。
 
 **人气值和阅读量分布**
 
-![七猫各类型在线阅读榜.png](images%2F%C6%DF%C3%A8%B8%F7%C0%E0%D0%CD%D4%DA%CF%DF%D4%C4%B6%C1%B0%F1.png)
+![七猫各类型在线阅读榜.png](images/七猫各类型在线阅读榜.png)
 
-![七猫各类型累计人气榜.png](images%2F%C6%DF%C3%A8%B8%F7%C0%E0%D0%CD%C0%DB%BC%C6%C8%CB%C6%F8%B0%F1.png)
+![七猫各类型累计人气榜.png](images/七猫各类型累计人气榜.png)
 
 | 类别   | 表现特征      | 用户需求解读   |
 |------|-----------|----------|
@@ -100,7 +100,7 @@ graph TD
 
 **小说字数分布**
 
-![七猫男生原创小说字数分布.png](images%2F%C6%DF%C3%A8%C4%D0%C9%FA%D4%AD%B4%B4%D0%A1%CB%B5%D7%D6%CA%FD%B7%D6%B2%BC.png)
+![七猫男生原创小说字数分布.png](images/七猫男生原创小说字数分布.png)
 
 ```mermaid
 graph LR
@@ -119,14 +119,14 @@ graph LR
 
 **字数与评分相关性散点图**
 
-![七猫字数与评分的相关性.png](images%2F%C6%DF%C3%A8%D7%D6%CA%FD%D3%EB%C6%C0%B7%D6%B5%C4%CF%E0%B9%D8%D0%D4.png)
+![七猫字数与评分的相关性.png](images/七猫字数与评分的相关性.png)
 
 - 字数越多，评分并不一定越高，但字数越低评分可能会越低。
 - 两者并没有强相关性
 
 #### 高频标签组合
 
-![七猫高频标签组合.png](images%2F%C6%DF%C3%A8%B8%DF%C6%B5%B1%EA%C7%A9%D7%E9%BA%CF.png)
+![七猫高频标签组合.png](images/七猫高频标签组合.png)
 
 **标签组合TOP3:**  
 🏆 东方玄幻 · 🥈 都市高武 · 🥉 都市高手
@@ -138,14 +138,14 @@ graph LR
 
 🔍 **特殊发现:**  
 
-![七猫评分分布曲线.png](images%2F%C6%DF%C3%A8%C6%C0%B7%D6%B7%D6%B2%BC%C7%FA%CF%DF.png)
+![七猫评分分布曲线.png](images/七猫评分分布曲线.png)
 
 评分呈现`右偏分布`，主要集中在`8.0~9.0`之间 ➥ 疑似新书默认8.0分机制影响（猜测）
 
 **其他图片**
 
-![七猫各类型平均字数对比.png](images%2F%C6%DF%C3%A8%B8%F7%C0%E0%D0%CD%C6%BD%BE%F9%D7%D6%CA%FD%B6%D4%B1%C8.png)
+![七猫各类型平均字数对比.png](images/七猫各类型平均字数对比.png)
 
-![七猫男生原创小说类型分布.png](images%2F%C6%DF%C3%A8%C4%D0%C9%FA%D4%AD%B4%B4%D0%A1%CB%B5%C0%E0%D0%CD%B7%D6%B2%BC.png)
+![七猫男生原创小说类型分布.png](images/七猫男生原创小说类型分布.png)
 
 ---
