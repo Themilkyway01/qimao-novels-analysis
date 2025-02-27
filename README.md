@@ -67,6 +67,7 @@ graph TD
 
 **总榜单**
 
+![七猫人气and阅读Top20](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫人气and阅读Top20.png)
 [七猫人气and阅读Top20](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫人气and阅读Top20.html)
 
 👑 总累计人气TOP3
@@ -82,16 +83,19 @@ graph TD
 - 总人气值和总阅读量的Top20作品有40%的重合。
 - 不难发现人气榜全为老书，而阅读榜中有60%为新书。
 - 老书依旧韵味十足，新书也迸发着强劲活力，这正是一个新老逐渐交替的时候。
-- 
-![最多产作者排行榜.png](https://themilkyway01.github.io/qimao-novels-analysis/images/最多产作者排行榜.png)
+
+![最多产作者排行榜](https://themilkyway01.github.io/qimao-novels-analysis/images/最多产作者排行榜.png)
+[最多产作者排行榜](https://themilkyway01.github.io/qimao-novels-analysis/images/最多产作者排行榜.html)
 
 - 又从作者产出来看，产出最多的都是老作者，说明急需新作者的进入和沉淀。
 
 **人气值和阅读量分布**
 
-![七猫各类型在线阅读榜.png](images/七猫各类型在线阅读榜.png)
+![七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.png)
+[七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.html)
 
-![七猫各类型累计人气榜.png](images/七猫各类型累计人气榜.png)
+![七猫各类型累计人气榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型累计人气榜.png)
+[七猫各类型累计人气榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型累计人气榜.html)
 
 | 类别   | 表现特征      | 用户需求解读   |
 |------|-----------|----------|
@@ -100,7 +104,8 @@ graph TD
 
 **小说字数分布**
 
-![七猫男生原创小说字数分布.png](images/七猫男生原创小说字数分布.png)
+![七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.png)
+[七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.html)
 
 ```mermaid
 graph LR
@@ -119,14 +124,16 @@ graph LR
 
 **字数与评分相关性散点图**
 
-![七猫字数与评分的相关性.png](images/七猫字数与评分的相关性.png)
+![七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.png)
+[七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.html)
 
 - 字数越多，评分并不一定越高，但字数越低评分可能会越低。
 - 两者并没有强相关性
 
 #### 高频标签组合
 
-![七猫高频标签组合.png](images/七猫高频标签组合.png)
+![七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.png)
+[七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.html)
 
 **标签组合TOP3:**  
 🏆 东方玄幻 · 🥈 都市高武 · 🥉 都市高手
@@ -138,14 +145,17 @@ graph LR
 
 🔍 **特殊发现:**  
 
-![七猫评分分布曲线.png](images/七猫评分分布曲线.png)
+![七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.png)
+[七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.html)
 
 评分呈现`右偏分布`，主要集中在`8.0~9.0`之间 ➥ 疑似新书默认8.0分机制影响（猜测）
 
 **其他图片**
 
-![七猫各类型平均字数对比.png](images/七猫各类型平均字数对比.png)
+![七猫各类型平均字数对比](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型平均字数对比.png)
+[七猫各类型平均字数对比](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型平均字数对比.html)
 
-![七猫男生原创小说类型分布.png](images/七猫男生原创小说类型分布.png)
+![七猫男生原创小说类型分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说类型分布.png)
+[七猫男生原创小说类型分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说类型分布.html)
 
 ---
