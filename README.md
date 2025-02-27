@@ -6,7 +6,7 @@
 
 **目标网站**：七猫中文网男生小说专区  
 **数据规模**：男生小说共7718本  
-**分析维度**：12+核心指标深度挖掘  
+**分析维度**：多重分析维度深度挖掘  
 **技术亮点**：Scrapy爬取 × 多维度分析 × 数据可视化
 
 ## 🎯 分析目标矩阵
@@ -23,8 +23,6 @@
 | 榜单经济 | 双榜Top20作品    | 水球图+左右横向对比柱状图 |
 | 类型榜单 | 双榜各类型Top20作品 | 自动横向轮播柱状图     |
 | 作者价值 | Top20高产作者    | 立体柱状图         |
-
-## 💡项目十二大亮点
 
 ---
 
@@ -61,14 +59,7 @@ graph TD
 | 数据清洗 | Pandas提取清洗 | 3h  | 无效数据发现与处理 |
 | 可视化  | 画面整体处理     | 10h | 动态交互实现    |
 
-### 💡 核心发现
-
----
-
-**总榜单**
-
-![七猫人气and阅读Top20](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫人气and阅读Top20.png)
-[七猫人气and阅读Top20](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫人气and阅读Top20.html)
+### 总榜单
 
 👑 总累计人气TOP3
 1. 《一剑独尊》- 10058.2万
@@ -80,6 +71,9 @@ graph TD
 2. 《剑来》- 203万
 3. 《无敌天命》- 196.5万
 
+![七猫人气and阅读Top20](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫人气and阅读Top20.png)
+[七猫人气and阅读Top20](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫人气and阅读Top20.html)
+
 - 总人气值和总阅读量的Top20作品有40%的重合。
 - 不难发现人气榜全为老书，而阅读榜中有60%为新书。
 - 老书依旧韵味十足，新书也迸发着强劲活力，这正是一个新老逐渐交替的时候。
@@ -89,7 +83,7 @@ graph TD
 
 - 又从作者产出来看，产出最多的都是老作者，说明急需新作者的进入和沉淀。
 
-**人气值和阅读量分布**
+### 人气值和阅读量分布
 
 ![七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.png)
 [七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.html)
@@ -102,16 +96,16 @@ graph TD
 | 都市类  | 📈 双榜数据领跑 | 娱乐消遣为主   |
 | 现实题材 | 📉 数据持续低位 | 严肃文学需求薄弱 |
 
-**小说字数分布**
+### 小说字数分布
 
 ![七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.png)
 [七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.html)
 
 ```mermaid
 graph LR
-  A[字数分析] --> B{<50万}
+  A[字数分析] --> B{小于50万}
   A --> C[50-200万]
-  A --> D{>200万}
+  A --> D{大于200万}
   B --> E(烂尾风险高)
   C --> F(创作黄金区间)
   D --> G(需IP开发赋能)
@@ -122,7 +116,7 @@ graph LR
   H --> L(...)
 ```
 
-**字数与评分相关性散点图**
+### 字数与评分相关性散点图
 
 ![七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.png)
 [七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.html)
@@ -130,10 +124,7 @@ graph LR
 - 字数越多，评分并不一定越高，但字数越低评分可能会越低。
 - 两者并没有强相关性
 
-#### 高频标签组合
-
-![七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.png)
-[七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.html)
+### 高频标签组合
 
 **标签组合TOP3:**  
 🏆 东方玄幻 · 🥈 都市高武 · 🥉 都市高手
@@ -143,12 +134,15 @@ graph LR
 🎥 IP联动开发池：筛选200万+优质长篇进行漫改/影视化  
 🏅 设立「新类型探索奖」：鼓励都市+玄幻跨界创作（大胆推测）  
 
+![七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.png)
+[七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.html)
+
 🔍 **特殊发现:**  
 
 ![七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.png)
 [七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.html)
 
-评分呈现`右偏分布`，主要集中在`8.0~9.0`之间 ➥ 疑似新书默认8.0分机制影响（猜测）
+- 评分呈现`右偏分布`，主要集中在`8.0~9.0`之间 ➥ 疑似新书默认8.0分机制影响（猜测）
 
 **其他图片**
 
