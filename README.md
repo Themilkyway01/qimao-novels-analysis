@@ -83,7 +83,7 @@ graph TD
 
 - 又从作者产出来看，产出最多的都是老作者，说明急需新作者的进入和沉淀。
 
-### 人气值和阅读量分布
+### 用户需求分析
 
 ![七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.png)
 [七猫各类型在线阅读榜](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型在线阅读榜.html)
@@ -96,7 +96,7 @@ graph TD
 | 都市类  | 📈 双榜数据领跑 | 娱乐消遣为主   |
 | 现实题材 | 📉 数据持续低位 | 严肃文学需求薄弱 |
 
-### 小说字数分布
+### 字数区间
 
 ![七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.png)
 [七猫男生原创小说字数分布](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫男生原创小说字数分布.html)
@@ -116,7 +116,7 @@ graph LR
   H --> L(...)
 ```
 
-### 字数与评分相关性散点图
+### 字数与评分的相关性
 
 ![七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.png)
 [七猫字数与评分的相关性](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫字数与评分的相关性.html)
@@ -137,14 +137,14 @@ graph LR
 ![七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.png)
 [七猫高频标签组合](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫高频标签组合.html)
 
-🔍 **特殊发现:**  
+### 🔍 特殊发现:
 
 ![七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.png)
 [七猫评分分布曲线](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫评分分布曲线.html)
 
 - 评分呈现`右偏分布`，主要集中在`8.0~9.0`之间 ➥ 疑似新书默认8.0分机制影响（猜测）
 
-**其他图片**
+### 其他图片
 
 ![七猫各类型平均字数对比](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型平均字数对比.png)
 [七猫各类型平均字数对比](https://themilkyway01.github.io/qimao-novels-analysis/images/七猫各类型平均字数对比.html)
